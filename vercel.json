@@ -1,0 +1,560 @@
+{
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/omsalokommunikasjon",
+      "destination": "/om-salo/",
+      "permanent": true
+    },
+    {
+      "source": "/kontaktsalokommunikasjon",
+      "destination": "/kontakt/",
+      "permanent": true
+    },
+    {
+      "source": "/arkivet",
+      "destination": "/arbeid/",
+      "permanent": true
+    },
+    {
+      "source": "/blog",
+      "destination": "/perspektiver/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hashtags/tipsfrasalo",
+      "destination": "/perspektiver/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hashtags/hybridathletes",
+      "destination": "/perspektiver/",
+      "permanent": true
+    },
+    {
+      "source": "/personvernerklæring",
+      "destination": "/personvern/",
+      "permanent": true
+    },
+    {
+      "source": "/personvernerkl%C3%A6ring",
+      "destination": "/personvern/",
+      "permanent": true
+    },
+    {
+      "source": "/book-online",
+      "destination": "/kontakt/",
+      "permanent": true
+    },
+    {
+      "source": "/kopi-av-tjenester",
+      "destination": "/tjenester/design-og-visuell-kommunikasjon/",
+      "permanent": true
+    },
+    {
+      "source": "/kopi-av-tjenester-1",
+      "destination": "/tjenester/",
+      "permanent": true
+    },
+    {
+      "source": "/kopi-av-designtjenester",
+      "destination": "/tjenester/pr-og-mediearbeid/",
+      "permanent": true
+    },
+    {
+      "source": "/kopi-av-designtjenester-1",
+      "destination": "/tjenester/design-og-visuell-kommunikasjon/",
+      "permanent": true
+    },
+    {
+      "source": "/kopi-av-designtjenester-til-fastpris",
+      "destination": "/tjenester/design-og-visuell-kommunikasjon/",
+      "permanent": true
+    },
+    {
+      "source": "/kopi-av-design",
+      "destination": "/tjenester/design-og-visuell-kommunikasjon/",
+      "permanent": true
+    },
+    {
+      "source": "/kopi-av-innholdsproduksjon",
+      "destination": "/tjenester/innholdsproduksjon/",
+      "permanent": true
+    },
+    {
+      "source": "/designavannonse",
+      "destination": "/tjenester/design-og-visuell-kommunikasjon/",
+      "permanent": true
+    },
+    {
+      "source": "/logodesign",
+      "destination": "/tjenester/design-og-visuell-kommunikasjon/",
+      "permanent": true
+    },
+    {
+      "source": "/viagraannonse",
+      "destination": "/tjenester/design-og-visuell-kommunikasjon/",
+      "permanent": true
+    },
+    {
+      "source": "/branddevelopment",
+      "destination": "/tjenester/design-og-visuell-kommunikasjon/",
+      "permanent": true
+    },
+    {
+      "source": "/merkevarelansering",
+      "destination": "/arbeid/hvrmnnsn-merkevareutvikling/",
+      "permanent": true
+    },
+    {
+      "source": "/prforfifa-trofeet",
+      "destination": "/arbeid/coca-cola-fifa-world-cup-trophy-tour/",
+      "permanent": true
+    },
+    {
+      "source": "/merkevareprkarllagerfeld",
+      "destination": "/arbeid/coca-cola-norsk-relevans/",
+      "permanent": true
+    },
+    {
+      "source": "/gorkene",
+      "destination": "/arbeid/coca-cola-norsk-relevans/",
+      "permanent": true
+    },
+    {
+      "source": "/coca-cola-2013",
+      "destination": "/arbeid/coca-cola-norsk-relevans/",
+      "permanent": true
+    },
+    {
+      "source": "/avtalealpinlandslaget",
+      "destination": "/arbeid/coca-cola-norsk-relevans/",
+      "permanent": true
+    },
+    {
+      "source": "/åretssportsbar2024",
+      "destination": "/arbeid/allente-lokal-pr-ressurs/",
+      "permanent": true
+    },
+    {
+      "source": "/%C3%A5retssportsbar2024",
+      "destination": "/arbeid/allente-lokal-pr-ressurs/",
+      "permanent": true
+    },
+    {
+      "source": "/handle",
+      "destination": "/arbeid/norgesgruppen-handle/",
+      "permanent": true
+    },
+    {
+      "source": "/produksjonavinternmagasin",
+      "destination": "/arbeid/mcdonalds-redaksjonell-totalproduksjon/",
+      "permanent": true
+    },
+    {
+      "source": "/kopi-av-mcdonalds-2019",
+      "destination": "/arbeid/mcdonalds-redaksjonell-totalproduksjon/",
+      "permanent": true
+    },
+    {
+      "source": "/bærekraftrapportmcd",
+      "destination": "/arbeid/mcdonalds-redaksjonell-totalproduksjon/",
+      "permanent": true
+    },
+    {
+      "source": "/b%C3%A6rekraftrapportmcd",
+      "destination": "/arbeid/mcdonalds-redaksjonell-totalproduksjon/",
+      "permanent": true
+    },
+    {
+      "source": "/bærekraftrapporttotalproduksjon",
+      "destination": "/arbeid/mcdonalds-redaksjonell-totalproduksjon/",
+      "permanent": true
+    },
+    {
+      "source": "/b%C3%A6rekraftrapporttotalproduksjon",
+      "destination": "/arbeid/mcdonalds-redaksjonell-totalproduksjon/",
+      "permanent": true
+    },
+    {
+      "source": "/tigerstadentotalproduksjon",
+      "destination": "/arbeid/tigerstaden-magasin/",
+      "permanent": true
+    },
+    {
+      "source": "/post/king-of-entertainment-strømme-og-tv-leverandøren-allente-velger-salo",
+      "destination": "/arbeid/allente-lokal-pr-ressurs/",
+      "permanent": true
+    },
+    {
+      "source": "/post/king-of-entertainment-str%C3%B8mme-og-tv-leverand%C3%B8ren-allente-velger-salo",
+      "destination": "/arbeid/allente-lokal-pr-ressurs/",
+      "permanent": true
+    },
+    {
+      "source": "/jobs",
+      "destination": "/kontakt/",
+      "permanent": true
+    },
+    {
+      "source": "/index.htm",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/index_start.htm",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/imagescroll.htm",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/vare-tjenester",
+      "destination": "/tjenester/",
+      "permanent": true
+    },
+    {
+      "source": "/merkevarer",
+      "destination": "/tjenester/",
+      "permanent": true
+    },
+    {
+      "source": "/pages/velkommen_innhold.htm",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/pages/om_oss_innhold.htm",
+      "destination": "/om-salo/",
+      "permanent": true
+    },
+    {
+      "source": "/pages/kontakt_innhold.htm",
+      "destination": "/kontakt/",
+      "permanent": true
+    },
+    {
+      "source": "/pages/produkter_innhold.htm",
+      "destination": "/tjenester/",
+      "permanent": true
+    },
+    {
+      "source": "/pages/metodikk_innhold.htm",
+      "destination": "/tjenester/",
+      "permanent": true
+    },
+    {
+      "source": "/pages/jobber_prosjekter_innhold.htm",
+      "destination": "/arbeid/",
+      "permanent": true
+    },
+    {
+      "source": "/pages/venner_innhold.htm",
+      "destination": "/om-salo/",
+      "permanent": true
+    },
+    {
+      "source": "/en/omsalokommunikasjon",
+      "destination": "/om-salo/",
+      "permanent": true
+    },
+    {
+      "source": "/en/kontaktsalokommunikasjon",
+      "destination": "/kontakt/",
+      "permanent": true
+    },
+    {
+      "source": "/en/arkivet",
+      "destination": "/arbeid/",
+      "permanent": true
+    },
+    {
+      "source": "/en/blog",
+      "destination": "/perspektiver/",
+      "permanent": true
+    },
+    {
+      "source": "/en/blog/hashtags/tipsfrasalo",
+      "destination": "/perspektiver/",
+      "permanent": true
+    },
+    {
+      "source": "/en/blog/hashtags/hybridathletes",
+      "destination": "/perspektiver/",
+      "permanent": true
+    },
+    {
+      "source": "/en/personvernerklæring",
+      "destination": "/personvern/",
+      "permanent": true
+    },
+    {
+      "source": "/en/personvernerkl%C3%A6ring",
+      "destination": "/personvern/",
+      "permanent": true
+    },
+    {
+      "source": "/en/book-online",
+      "destination": "/kontakt/",
+      "permanent": true
+    },
+    {
+      "source": "/en/kopi-av-tjenester",
+      "destination": "/tjenester/design-og-visuell-kommunikasjon/",
+      "permanent": true
+    },
+    {
+      "source": "/en/kopi-av-tjenester-1",
+      "destination": "/tjenester/",
+      "permanent": true
+    },
+    {
+      "source": "/en/kopi-av-designtjenester",
+      "destination": "/tjenester/pr-og-mediearbeid/",
+      "permanent": true
+    },
+    {
+      "source": "/en/kopi-av-designtjenester-1",
+      "destination": "/tjenester/design-og-visuell-kommunikasjon/",
+      "permanent": true
+    },
+    {
+      "source": "/en/kopi-av-designtjenester-til-fastpris",
+      "destination": "/tjenester/design-og-visuell-kommunikasjon/",
+      "permanent": true
+    },
+    {
+      "source": "/en/kopi-av-design",
+      "destination": "/tjenester/design-og-visuell-kommunikasjon/",
+      "permanent": true
+    },
+    {
+      "source": "/en/kopi-av-innholdsproduksjon",
+      "destination": "/tjenester/innholdsproduksjon/",
+      "permanent": true
+    },
+    {
+      "source": "/en/designavannonse",
+      "destination": "/tjenester/design-og-visuell-kommunikasjon/",
+      "permanent": true
+    },
+    {
+      "source": "/en/logodesign",
+      "destination": "/tjenester/design-og-visuell-kommunikasjon/",
+      "permanent": true
+    },
+    {
+      "source": "/en/viagraannonse",
+      "destination": "/tjenester/design-og-visuell-kommunikasjon/",
+      "permanent": true
+    },
+    {
+      "source": "/en/branddevelopment",
+      "destination": "/tjenester/design-og-visuell-kommunikasjon/",
+      "permanent": true
+    },
+    {
+      "source": "/en/merkevarelansering",
+      "destination": "/arbeid/hvrmnnsn-merkevareutvikling/",
+      "permanent": true
+    },
+    {
+      "source": "/en/prforfifa-trofeet",
+      "destination": "/arbeid/coca-cola-fifa-world-cup-trophy-tour/",
+      "permanent": true
+    },
+    {
+      "source": "/en/merkevareprkarllagerfeld",
+      "destination": "/arbeid/coca-cola-norsk-relevans/",
+      "permanent": true
+    },
+    {
+      "source": "/en/gorkene",
+      "destination": "/arbeid/coca-cola-norsk-relevans/",
+      "permanent": true
+    },
+    {
+      "source": "/en/coca-cola-2013",
+      "destination": "/arbeid/coca-cola-norsk-relevans/",
+      "permanent": true
+    },
+    {
+      "source": "/en/avtalealpinlandslaget",
+      "destination": "/arbeid/coca-cola-norsk-relevans/",
+      "permanent": true
+    },
+    {
+      "source": "/en/åretssportsbar2024",
+      "destination": "/arbeid/allente-lokal-pr-ressurs/",
+      "permanent": true
+    },
+    {
+      "source": "/en/%C3%A5retssportsbar2024",
+      "destination": "/arbeid/allente-lokal-pr-ressurs/",
+      "permanent": true
+    },
+    {
+      "source": "/en/handle",
+      "destination": "/arbeid/norgesgruppen-handle/",
+      "permanent": true
+    },
+    {
+      "source": "/en/produksjonavinternmagasin",
+      "destination": "/arbeid/mcdonalds-redaksjonell-totalproduksjon/",
+      "permanent": true
+    },
+    {
+      "source": "/en/kopi-av-mcdonalds-2019",
+      "destination": "/arbeid/mcdonalds-redaksjonell-totalproduksjon/",
+      "permanent": true
+    },
+    {
+      "source": "/en/bærekraftrapportmcd",
+      "destination": "/arbeid/mcdonalds-redaksjonell-totalproduksjon/",
+      "permanent": true
+    },
+    {
+      "source": "/en/b%C3%A6rekraftrapportmcd",
+      "destination": "/arbeid/mcdonalds-redaksjonell-totalproduksjon/",
+      "permanent": true
+    },
+    {
+      "source": "/en/bærekraftrapporttotalproduksjon",
+      "destination": "/arbeid/mcdonalds-redaksjonell-totalproduksjon/",
+      "permanent": true
+    },
+    {
+      "source": "/en/b%C3%A6rekraftrapporttotalproduksjon",
+      "destination": "/arbeid/mcdonalds-redaksjonell-totalproduksjon/",
+      "permanent": true
+    },
+    {
+      "source": "/en/tigerstadentotalproduksjon",
+      "destination": "/arbeid/tigerstaden-magasin/",
+      "permanent": true
+    },
+    {
+      "source": "/en/post/king-of-entertainment-strømme-og-tv-leverandøren-allente-velger-salo",
+      "destination": "/arbeid/allente-lokal-pr-ressurs/",
+      "permanent": true
+    },
+    {
+      "source": "/en/post/king-of-entertainment-str%C3%B8mme-og-tv-leverand%C3%B8ren-allente-velger-salo",
+      "destination": "/arbeid/allente-lokal-pr-ressurs/",
+      "permanent": true
+    },
+    {
+      "source": "/en/jobs",
+      "destination": "/kontakt/",
+      "permanent": true
+    },
+    {
+      "source": "/en/vare-tjenester",
+      "destination": "/tjenester/",
+      "permanent": true
+    },
+    {
+      "source": "/en/merkevarer",
+      "destination": "/tjenester/",
+      "permanent": true
+    },
+    {
+      "source": "/en",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/post/:slug*",
+      "destination": "/perspektiver/",
+      "permanent": true
+    },
+    {
+      "source": "/en/post/:slug*",
+      "destination": "/perspektiver/",
+      "permanent": true
+    },
+    {
+      "source": "/jobs/:slug*",
+      "destination": "/kontakt/",
+      "permanent": true
+    },
+    {
+      "source": "/en/jobs/:slug*",
+      "destination": "/kontakt/",
+      "permanent": true
+    },
+    {
+      "source": "/profile/:slug*",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/en/profile/:slug*",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/sv/:slug*",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/sv",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/en/:slug*",
+      "destination": "/",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=()"
+        },
+        {
+          "key": "Strict-Transport-Security",
+          "value": "max-age=63072000; includeSubDomains"
+        }
+      ]
+    },
+    {
+      "source": "/assets/fonter/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/assets/img/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    }
+  ]
+}
