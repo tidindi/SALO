@@ -55,3 +55,19 @@ if (skjema && window.fetch) {
     });
   });
 }
+Array.prototype.forEach.call(document.querySelectorAll('.video .ramme[data-vimeo]'), function (ramme) {
+  var knapp = ramme.querySelector('.spill');
+  if (!knapp) return;
+  knapp.addEventListener('click', function () {
+    var id = ramme.dataset.vimeo;
+    var ramme2 = document.createElement('iframe');
+    ramme2.src = 'https://player.vimeo.com/video/' + id + '?dnt=1&autoplay=1&title=0&byline=0&portrait=0';
+    ramme2.title = knapp.getAttribute('aria-label').replace(/^Spill av:\s*/, '');
+    ramme2.setAttribute('allow', 'autoplay; fullscreen; picture-in-picture');
+    ramme2.setAttribute('allowfullscreen', '');
+    ramme2.setAttribute('loading', 'lazy');
+    ramme.innerHTML = '';
+    ramme.appendChild(ramme2);
+    ramme2.focus();
+  });
+});
