@@ -26,7 +26,10 @@ header{border-bottom:0}
 .menylinje .hoyre a{color:var(--ink)}
 .menylinje .hoyre a:hover{text-decoration:underline;text-underline-offset:3px}
 .klokke{font-variant-numeric:tabular-nums}
-@media(max-width:820px){.menylinje{flex-wrap:wrap;justify-content:center;gap:8px 18px}.menylinje .venstre{display:none}}
+@media(max-width:820px){.menylinje{flex-wrap:wrap;justify-content:center;gap:9px 18px;padding:12px var(--pad)}
+ .menylinje .venstre{display:none}
+ /* nav og kontakt flyter som én rekke, så lenkene brekker jevnt */
+ .menylinje nav,.menylinje .hoyre{display:contents}}
 
 .hero{padding:5vh var(--pad) 0}
 .hero .meta{display:flex;justify-content:space-between;border-bottom:1px solid var(--line);padding-bottom:10px;margin-bottom:5vh;gap:20px;flex-wrap:wrap}
@@ -242,3 +245,6 @@ h1.sidetittel{font-family:"Courier Prime",monospace;font-size:clamp(22px,3.5vw,4
 .galleri.ett img{height:auto}
 @media(max-width:760px){.galleri{grid-template-columns:1fr}.galleri figure.bred{aspect-ratio:16/9}}
 @media(prefers-reduced-motion:reduce){.galleri img{transition:none}.galleri figure:hover img{transform:none}}
+
+.tekst .kundeliste{font-family:"Courier Prime",monospace;font-size:clamp(17px,1.9vw,22px);line-height:1.7;letter-spacing:-.01em;max-width:52ch;color:var(--ink)}
+.tekst .kundeliste .dim{color:var(--mid)}
