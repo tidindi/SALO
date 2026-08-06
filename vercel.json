@@ -12,12 +12,12 @@
       "permanent": true
     },
     {
-      "source": "/kontaktsalokommunikasjon",
+      "source": "/kontaktsalokommunikasjon/",
       "destination": "/kontakt/",
       "permanent": true
     },
     {
-      "source": "/kontaktsalokommunikasjon/",
+      "source": "/kontaktsalokommunikasjon",
       "destination": "/kontakt/",
       "permanent": true
     },
@@ -42,22 +42,22 @@
       "permanent": true
     },
     {
-      "source": "/blog/hashtags/tipsfrasalo",
-      "destination": "/perspektiver/",
-      "permanent": true
-    },
-    {
       "source": "/blog/hashtags/tipsfrasalo/",
       "destination": "/perspektiver/",
       "permanent": true
     },
     {
-      "source": "/blog/hashtags/hybridathletes/",
+      "source": "/blog/hashtags/tipsfrasalo",
       "destination": "/perspektiver/",
       "permanent": true
     },
     {
       "source": "/blog/hashtags/hybridathletes",
+      "destination": "/perspektiver/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hashtags/hybridathletes/",
       "destination": "/perspektiver/",
       "permanent": true
     },
@@ -182,17 +182,12 @@
       "permanent": true
     },
     {
-      "source": "/viagraannonse/",
-      "destination": "/tjenester/design-og-visuell-kommunikasjon/",
-      "permanent": true
-    },
-    {
       "source": "/viagraannonse",
       "destination": "/tjenester/design-og-visuell-kommunikasjon/",
       "permanent": true
     },
     {
-      "source": "/branddevelopment",
+      "source": "/viagraannonse/",
       "destination": "/tjenester/design-og-visuell-kommunikasjon/",
       "permanent": true
     },
@@ -202,8 +197,8 @@
       "permanent": true
     },
     {
-      "source": "/merkevarelansering",
-      "destination": "/arbeid/hvrmnnsn-merkevareutvikling/",
+      "source": "/branddevelopment",
+      "destination": "/tjenester/design-og-visuell-kommunikasjon/",
       "permanent": true
     },
     {
@@ -212,12 +207,17 @@
       "permanent": true
     },
     {
-      "source": "/prforfifa-trofeet/",
-      "destination": "/arbeid/coca-cola-fifa-world-cup-trophy-tour/",
+      "source": "/merkevarelansering",
+      "destination": "/arbeid/hvrmnnsn-merkevareutvikling/",
       "permanent": true
     },
     {
       "source": "/prforfifa-trofeet",
+      "destination": "/arbeid/coca-cola-fifa-world-cup-trophy-tour/",
+      "permanent": true
+    },
+    {
+      "source": "/prforfifa-trofeet/",
       "destination": "/arbeid/coca-cola-fifa-world-cup-trophy-tour/",
       "permanent": true
     },
@@ -232,12 +232,12 @@
       "permanent": true
     },
     {
-      "source": "/gorkene/",
+      "source": "/gorkene",
       "destination": "/arbeid/coca-cola-norsk-relevans/",
       "permanent": true
     },
     {
-      "source": "/gorkene",
+      "source": "/gorkene/",
       "destination": "/arbeid/coca-cola-norsk-relevans/",
       "permanent": true
     },
@@ -252,22 +252,22 @@
       "permanent": true
     },
     {
-      "source": "/avtalealpinlandslaget",
-      "destination": "/arbeid/coca-cola-norsk-relevans/",
-      "permanent": true
-    },
-    {
       "source": "/avtalealpinlandslaget/",
       "destination": "/arbeid/coca-cola-norsk-relevans/",
       "permanent": true
     },
     {
-      "source": "/åretssportsbar2024",
-      "destination": "/arbeid/allente-lokal-pr-ressurs/",
+      "source": "/avtalealpinlandslaget",
+      "destination": "/arbeid/coca-cola-norsk-relevans/",
       "permanent": true
     },
     {
       "source": "/åretssportsbar2024/",
+      "destination": "/arbeid/allente-lokal-pr-ressurs/",
+      "permanent": true
+    },
+    {
+      "source": "/åretssportsbar2024",
       "destination": "/arbeid/allente-lokal-pr-ressurs/",
       "permanent": true
     },
@@ -282,22 +282,22 @@
       "permanent": true
     },
     {
-      "source": "/handle",
-      "destination": "/arbeid/norgesgruppen-handle/",
-      "permanent": true
-    },
-    {
       "source": "/handle/",
       "destination": "/arbeid/norgesgruppen-handle/",
       "permanent": true
     },
     {
-      "source": "/produksjonavinternmagasin/",
-      "destination": "/arbeid/mcdonalds-redaksjonell-totalproduksjon/",
+      "source": "/handle",
+      "destination": "/arbeid/norgesgruppen-handle/",
       "permanent": true
     },
     {
       "source": "/produksjonavinternmagasin",
+      "destination": "/arbeid/mcdonalds-redaksjonell-totalproduksjon/",
+      "permanent": true
+    },
+    {
+      "source": "/produksjonavinternmagasin/",
       "destination": "/arbeid/mcdonalds-redaksjonell-totalproduksjon/",
       "permanent": true
     },
@@ -312,22 +312,22 @@
       "permanent": true
     },
     {
-      "source": "/bærekraftrapportmcd",
-      "destination": "/arbeid/mcdonalds-redaksjonell-totalproduksjon/",
-      "permanent": true
-    },
-    {
       "source": "/bærekraftrapportmcd/",
       "destination": "/arbeid/mcdonalds-redaksjonell-totalproduksjon/",
       "permanent": true
     },
     {
-      "source": "/b%C3%A6rekraftrapportmcd",
+      "source": "/bærekraftrapportmcd",
       "destination": "/arbeid/mcdonalds-redaksjonell-totalproduksjon/",
       "permanent": true
     },
     {
       "source": "/b%C3%A6rekraftrapportmcd/",
+      "destination": "/arbeid/mcdonalds-redaksjonell-totalproduksjon/",
+      "permanent": true
+    },
+    {
+      "source": "/b%C3%A6rekraftrapportmcd",
       "destination": "/arbeid/mcdonalds-redaksjonell-totalproduksjon/",
       "permanent": true
     },
@@ -342,22 +342,22 @@
       "permanent": true
     },
     {
-      "source": "/b%C3%A6rekraftrapporttotalproduksjon/",
-      "destination": "/arbeid/mcdonalds-redaksjonell-totalproduksjon/",
-      "permanent": true
-    },
-    {
       "source": "/b%C3%A6rekraftrapporttotalproduksjon",
       "destination": "/arbeid/mcdonalds-redaksjonell-totalproduksjon/",
       "permanent": true
     },
     {
-      "source": "/tigerstadentotalproduksjon/",
-      "destination": "/arbeid/tigerstaden-magasin/",
+      "source": "/b%C3%A6rekraftrapporttotalproduksjon/",
+      "destination": "/arbeid/mcdonalds-redaksjonell-totalproduksjon/",
       "permanent": true
     },
     {
       "source": "/tigerstadentotalproduksjon",
+      "destination": "/arbeid/tigerstaden-magasin/",
+      "permanent": true
+    },
+    {
+      "source": "/tigerstadentotalproduksjon/",
       "destination": "/arbeid/tigerstaden-magasin/",
       "permanent": true
     },
@@ -382,17 +382,12 @@
       "permanent": true
     },
     {
-      "source": "/index_start.htm",
-      "destination": "/",
-      "permanent": true
-    },
-    {
       "source": "/index_start.htm/",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/imagescroll.htm",
+      "source": "/index_start.htm",
       "destination": "/",
       "permanent": true
     },
@@ -402,8 +397,8 @@
       "permanent": true
     },
     {
-      "source": "/vare-tjenester",
-      "destination": "/tjenester/",
+      "source": "/imagescroll.htm",
+      "destination": "/",
       "permanent": true
     },
     {
@@ -412,12 +407,17 @@
       "permanent": true
     },
     {
-      "source": "/merkevarer",
+      "source": "/vare-tjenester",
       "destination": "/tjenester/",
       "permanent": true
     },
     {
       "source": "/merkevarer/",
+      "destination": "/tjenester/",
+      "permanent": true
+    },
+    {
+      "source": "/merkevarer",
       "destination": "/tjenester/",
       "permanent": true
     },
@@ -452,17 +452,12 @@
       "permanent": true
     },
     {
-      "source": "/pages/produkter_innhold.htm/",
-      "destination": "/tjenester/",
-      "permanent": true
-    },
-    {
       "source": "/pages/produkter_innhold.htm",
       "destination": "/tjenester/",
       "permanent": true
     },
     {
-      "source": "/pages/metodikk_innhold.htm",
+      "source": "/pages/produkter_innhold.htm/",
       "destination": "/tjenester/",
       "permanent": true
     },
@@ -472,12 +467,17 @@
       "permanent": true
     },
     {
-      "source": "/pages/jobber_prosjekter_innhold.htm/",
-      "destination": "/arbeid/",
+      "source": "/pages/metodikk_innhold.htm",
+      "destination": "/tjenester/",
       "permanent": true
     },
     {
       "source": "/pages/jobber_prosjekter_innhold.htm",
+      "destination": "/arbeid/",
+      "permanent": true
+    },
+    {
+      "source": "/pages/jobber_prosjekter_innhold.htm/",
       "destination": "/arbeid/",
       "permanent": true
     },
@@ -492,22 +492,22 @@
       "permanent": true
     },
     {
-      "source": "/post/king-of-entertainment-strømme-og-tv-leverandøren-allente-velger-salo/",
-      "destination": "/perspektiver/king-of-entertainment-allente-velger-salo/",
-      "permanent": true
-    },
-    {
       "source": "/post/king-of-entertainment-strømme-og-tv-leverandøren-allente-velger-salo",
       "destination": "/perspektiver/king-of-entertainment-allente-velger-salo/",
       "permanent": true
     },
     {
-      "source": "/en/post/king-of-entertainment-strømme-og-tv-leverandøren-allente-velger-salo",
+      "source": "/post/king-of-entertainment-strømme-og-tv-leverandøren-allente-velger-salo/",
       "destination": "/perspektiver/king-of-entertainment-allente-velger-salo/",
       "permanent": true
     },
     {
       "source": "/en/post/king-of-entertainment-strømme-og-tv-leverandøren-allente-velger-salo/",
+      "destination": "/perspektiver/king-of-entertainment-allente-velger-salo/",
+      "permanent": true
+    },
+    {
+      "source": "/en/post/king-of-entertainment-strømme-og-tv-leverandøren-allente-velger-salo",
       "destination": "/perspektiver/king-of-entertainment-allente-velger-salo/",
       "permanent": true
     },
@@ -522,22 +522,22 @@
       "permanent": true
     },
     {
-      "source": "/en/post/king-of-entertainment-str%C3%B8mme-og-tv-leverand%C3%B8ren-allente-velger-salo/",
-      "destination": "/perspektiver/king-of-entertainment-allente-velger-salo/",
-      "permanent": true
-    },
-    {
       "source": "/en/post/king-of-entertainment-str%C3%B8mme-og-tv-leverand%C3%B8ren-allente-velger-salo",
       "destination": "/perspektiver/king-of-entertainment-allente-velger-salo/",
       "permanent": true
     },
     {
-      "source": "/post/vi-knytter-til-oss-isak-ramsvik-som-innholdsprodusent",
-      "destination": "/perspektiver/isak-ramsvik-innholdsprodusent/",
+      "source": "/en/post/king-of-entertainment-str%C3%B8mme-og-tv-leverand%C3%B8ren-allente-velger-salo/",
+      "destination": "/perspektiver/king-of-entertainment-allente-velger-salo/",
       "permanent": true
     },
     {
       "source": "/post/vi-knytter-til-oss-isak-ramsvik-som-innholdsprodusent/",
+      "destination": "/perspektiver/isak-ramsvik-innholdsprodusent/",
+      "permanent": true
+    },
+    {
+      "source": "/post/vi-knytter-til-oss-isak-ramsvik-som-innholdsprodusent",
       "destination": "/perspektiver/isak-ramsvik-innholdsprodusent/",
       "permanent": true
     },
@@ -572,12 +572,12 @@
       "permanent": true
     },
     {
-      "source": "/post/influerer-influenseren/",
+      "source": "/post/influerer-influenseren",
       "destination": "/perspektiver/influerer-influenseren/",
       "permanent": true
     },
     {
-      "source": "/post/influerer-influenseren",
+      "source": "/post/influerer-influenseren/",
       "destination": "/perspektiver/influerer-influenseren/",
       "permanent": true
     },
@@ -592,17 +592,12 @@
       "permanent": true
     },
     {
-      "source": "/post/verktøyene-endrer-seg-menneskene-er-de-samme",
-      "destination": "/perspektiver/verktoyene-endrer-seg-menneskene-er-de-samme/",
-      "permanent": true
-    },
-    {
       "source": "/post/verktøyene-endrer-seg-menneskene-er-de-samme/",
       "destination": "/perspektiver/verktoyene-endrer-seg-menneskene-er-de-samme/",
       "permanent": true
     },
     {
-      "source": "/en/post/verktøyene-endrer-seg-menneskene-er-de-samme/",
+      "source": "/post/verktøyene-endrer-seg-menneskene-er-de-samme",
       "destination": "/perspektiver/verktoyene-endrer-seg-menneskene-er-de-samme/",
       "permanent": true
     },
@@ -612,12 +607,17 @@
       "permanent": true
     },
     {
-      "source": "/post/verkt%C3%B8yene-endrer-seg-menneskene-er-de-samme",
+      "source": "/en/post/verktøyene-endrer-seg-menneskene-er-de-samme/",
       "destination": "/perspektiver/verktoyene-endrer-seg-menneskene-er-de-samme/",
       "permanent": true
     },
     {
       "source": "/post/verkt%C3%B8yene-endrer-seg-menneskene-er-de-samme/",
+      "destination": "/perspektiver/verktoyene-endrer-seg-menneskene-er-de-samme/",
+      "permanent": true
+    },
+    {
+      "source": "/post/verkt%C3%B8yene-endrer-seg-menneskene-er-de-samme",
       "destination": "/perspektiver/verktoyene-endrer-seg-menneskene-er-de-samme/",
       "permanent": true
     },
@@ -632,17 +632,12 @@
       "permanent": true
     },
     {
-      "source": "/post/bildets-makt/",
-      "destination": "/perspektiver/bildets-makt/",
-      "permanent": true
-    },
-    {
       "source": "/post/bildets-makt",
       "destination": "/perspektiver/bildets-makt/",
       "permanent": true
     },
     {
-      "source": "/en/post/bildets-makt/",
+      "source": "/post/bildets-makt/",
       "destination": "/perspektiver/bildets-makt/",
       "permanent": true
     },
@@ -652,12 +647,17 @@
       "permanent": true
     },
     {
-      "source": "/post/det-rører-seg-rundt-pollen",
-      "destination": "/perspektiver/det-rorer-seg-rundt-pollen/",
+      "source": "/en/post/bildets-makt/",
+      "destination": "/perspektiver/bildets-makt/",
       "permanent": true
     },
     {
       "source": "/post/det-rører-seg-rundt-pollen/",
+      "destination": "/perspektiver/det-rorer-seg-rundt-pollen/",
+      "permanent": true
+    },
+    {
+      "source": "/post/det-rører-seg-rundt-pollen",
       "destination": "/perspektiver/det-rorer-seg-rundt-pollen/",
       "permanent": true
     },
@@ -672,12 +672,12 @@
       "permanent": true
     },
     {
-      "source": "/post/det-r%C3%B8rer-seg-rundt-pollen/",
+      "source": "/post/det-r%C3%B8rer-seg-rundt-pollen",
       "destination": "/perspektiver/det-rorer-seg-rundt-pollen/",
       "permanent": true
     },
     {
-      "source": "/post/det-r%C3%B8rer-seg-rundt-pollen",
+      "source": "/post/det-r%C3%B8rer-seg-rundt-pollen/",
       "destination": "/perspektiver/det-rorer-seg-rundt-pollen/",
       "permanent": true
     },
@@ -702,12 +702,12 @@
       "permanent": true
     },
     {
-      "source": "/en/post/flere-kvinner-enn-menn-ai-mikrobrikker-og-slankemedisiner/",
+      "source": "/en/post/flere-kvinner-enn-menn-ai-mikrobrikker-og-slankemedisiner",
       "destination": "/perspektiver/flere-kvinner-enn-menn-ai-mikrobrikker-slankemedisiner/",
       "permanent": true
     },
     {
-      "source": "/en/post/flere-kvinner-enn-menn-ai-mikrobrikker-og-slankemedisiner",
+      "source": "/en/post/flere-kvinner-enn-menn-ai-mikrobrikker-og-slankemedisiner/",
       "destination": "/perspektiver/flere-kvinner-enn-menn-ai-mikrobrikker-slankemedisiner/",
       "permanent": true
     },
@@ -742,12 +742,12 @@
       "permanent": true
     },
     {
-      "source": "/en/post/weng-bør-slippe-å-være-very-demure/",
+      "source": "/en/post/weng-bør-slippe-å-være-very-demure",
       "destination": "/perspektiver/weng-bor-slippe-a-vaere-very-demure/",
       "permanent": true
     },
     {
-      "source": "/en/post/weng-bør-slippe-å-være-very-demure",
+      "source": "/en/post/weng-bør-slippe-å-være-very-demure/",
       "destination": "/perspektiver/weng-bor-slippe-a-vaere-very-demure/",
       "permanent": true
     },
@@ -772,17 +772,12 @@
       "permanent": true
     },
     {
-      "source": "/post/går-norske-medier-i-ai-fella/",
-      "destination": "/perspektiver/gar-norske-medier-i-ai-fella/",
-      "permanent": true
-    },
-    {
       "source": "/post/går-norske-medier-i-ai-fella",
       "destination": "/perspektiver/gar-norske-medier-i-ai-fella/",
       "permanent": true
     },
     {
-      "source": "/en/post/går-norske-medier-i-ai-fella",
+      "source": "/post/går-norske-medier-i-ai-fella/",
       "destination": "/perspektiver/gar-norske-medier-i-ai-fella/",
       "permanent": true
     },
@@ -792,7 +787,7 @@
       "permanent": true
     },
     {
-      "source": "/post/g%C3%A5r-norske-medier-i-ai-fella/",
+      "source": "/en/post/går-norske-medier-i-ai-fella",
       "destination": "/perspektiver/gar-norske-medier-i-ai-fella/",
       "permanent": true
     },
@@ -802,12 +797,17 @@
       "permanent": true
     },
     {
-      "source": "/en/post/g%C3%A5r-norske-medier-i-ai-fella",
+      "source": "/post/g%C3%A5r-norske-medier-i-ai-fella/",
       "destination": "/perspektiver/gar-norske-medier-i-ai-fella/",
       "permanent": true
     },
     {
       "source": "/en/post/g%C3%A5r-norske-medier-i-ai-fella/",
+      "destination": "/perspektiver/gar-norske-medier-i-ai-fella/",
+      "permanent": true
+    },
+    {
+      "source": "/en/post/g%C3%A5r-norske-medier-i-ai-fella",
       "destination": "/perspektiver/gar-norske-medier-i-ai-fella/",
       "permanent": true
     },
@@ -872,12 +872,12 @@
       "permanent": true
     },
     {
-      "source": "/post/er-svulstige-st%C3%B8tteerkl%C3%A6ringer-l%C3%B8sningen/",
+      "source": "/post/er-svulstige-st%C3%B8tteerkl%C3%A6ringer-l%C3%B8sningen",
       "destination": "/perspektiver/redaksjonelle-medier-svulstige-stotteerklaeringer/",
       "permanent": true
     },
     {
-      "source": "/post/er-svulstige-st%C3%B8tteerkl%C3%A6ringer-l%C3%B8sningen",
+      "source": "/post/er-svulstige-st%C3%B8tteerkl%C3%A6ringer-l%C3%B8sningen/",
       "destination": "/perspektiver/redaksjonelle-medier-svulstige-stotteerklaeringer/",
       "permanent": true
     },
@@ -892,22 +892,22 @@
       "permanent": true
     },
     {
-      "source": "/post/ikke-glem-rekkefølgen",
-      "destination": "/perspektiver/ikke-glem-rekkefolgen/",
-      "permanent": true
-    },
-    {
       "source": "/post/ikke-glem-rekkefølgen/",
       "destination": "/perspektiver/ikke-glem-rekkefolgen/",
       "permanent": true
     },
     {
-      "source": "/en/post/ikke-glem-rekkefølgen/",
+      "source": "/post/ikke-glem-rekkefølgen",
       "destination": "/perspektiver/ikke-glem-rekkefolgen/",
       "permanent": true
     },
     {
       "source": "/en/post/ikke-glem-rekkefølgen",
+      "destination": "/perspektiver/ikke-glem-rekkefolgen/",
+      "permanent": true
+    },
+    {
+      "source": "/en/post/ikke-glem-rekkefølgen/",
       "destination": "/perspektiver/ikke-glem-rekkefolgen/",
       "permanent": true
     },
@@ -922,22 +922,22 @@
       "permanent": true
     },
     {
-      "source": "/en/post/ikke-glem-rekkef%C3%B8lgen",
-      "destination": "/perspektiver/ikke-glem-rekkefolgen/",
-      "permanent": true
-    },
-    {
       "source": "/en/post/ikke-glem-rekkef%C3%B8lgen/",
       "destination": "/perspektiver/ikke-glem-rekkefolgen/",
       "permanent": true
     },
     {
-      "source": "/post/3e129a41/",
-      "destination": "/perspektiver/gi-deg-selv-og-historiefortellingen-din-en-dytt/",
+      "source": "/en/post/ikke-glem-rekkef%C3%B8lgen",
+      "destination": "/perspektiver/ikke-glem-rekkefolgen/",
       "permanent": true
     },
     {
       "source": "/post/3e129a41",
+      "destination": "/perspektiver/gi-deg-selv-og-historiefortellingen-din-en-dytt/",
+      "permanent": true
+    },
+    {
+      "source": "/post/3e129a41/",
       "destination": "/perspektiver/gi-deg-selv-og-historiefortellingen-din-en-dytt/",
       "permanent": true
     },
@@ -962,12 +962,12 @@
       "permanent": true
     },
     {
-      "source": "/en/post/kanskje-var-det-sånn-hun-så-ut/",
+      "source": "/en/post/kanskje-var-det-sånn-hun-så-ut",
       "destination": "/perspektiver/streisand-effekten/",
       "permanent": true
     },
     {
-      "source": "/en/post/kanskje-var-det-sånn-hun-så-ut",
+      "source": "/en/post/kanskje-var-det-sånn-hun-så-ut/",
       "destination": "/perspektiver/streisand-effekten/",
       "permanent": true
     },
@@ -982,12 +982,12 @@
       "permanent": true
     },
     {
-      "source": "/en/post/kanskje-var-det-s%C3%A5nn-hun-s%C3%A5-ut/",
+      "source": "/en/post/kanskje-var-det-s%C3%A5nn-hun-s%C3%A5-ut",
       "destination": "/perspektiver/streisand-effekten/",
       "permanent": true
     },
     {
-      "source": "/en/post/kanskje-var-det-s%C3%A5nn-hun-s%C3%A5-ut",
+      "source": "/en/post/kanskje-var-det-s%C3%A5nn-hun-s%C3%A5-ut/",
       "destination": "/perspektiver/streisand-effekten/",
       "permanent": true
     },
@@ -1002,12 +1002,12 @@
       "permanent": true
     },
     {
-      "source": "/en/post/fra-tv2-voldstiltalte-gjert-ingebrigtsen-59-mener-at-pressen-ikke-tar-menneskelige-hensyn-i-sitt/",
+      "source": "/en/post/fra-tv2-voldstiltalte-gjert-ingebrigtsen-59-mener-at-pressen-ikke-tar-menneskelige-hensyn-i-sitt",
       "destination": "/perspektiver/tar-pressen-menneskelige-hensyn/",
       "permanent": true
     },
     {
-      "source": "/en/post/fra-tv2-voldstiltalte-gjert-ingebrigtsen-59-mener-at-pressen-ikke-tar-menneskelige-hensyn-i-sitt",
+      "source": "/en/post/fra-tv2-voldstiltalte-gjert-ingebrigtsen-59-mener-at-pressen-ikke-tar-menneskelige-hensyn-i-sitt/",
       "destination": "/perspektiver/tar-pressen-menneskelige-hensyn/",
       "permanent": true
     },
@@ -1032,22 +1032,22 @@
       "permanent": true
     },
     {
-      "source": "/post/det-summer-godt-rundt-pollen-i-året-også",
-      "destination": "/perspektiver/det-summer-godt-rundt-pollen/",
-      "permanent": true
-    },
-    {
       "source": "/post/det-summer-godt-rundt-pollen-i-året-også/",
       "destination": "/perspektiver/det-summer-godt-rundt-pollen/",
       "permanent": true
     },
     {
-      "source": "/en/post/det-summer-godt-rundt-pollen-i-året-også/",
+      "source": "/post/det-summer-godt-rundt-pollen-i-året-også",
       "destination": "/perspektiver/det-summer-godt-rundt-pollen/",
       "permanent": true
     },
     {
       "source": "/en/post/det-summer-godt-rundt-pollen-i-året-også",
+      "destination": "/perspektiver/det-summer-godt-rundt-pollen/",
+      "permanent": true
+    },
+    {
+      "source": "/en/post/det-summer-godt-rundt-pollen-i-året-også/",
       "destination": "/perspektiver/det-summer-godt-rundt-pollen/",
       "permanent": true
     },
@@ -1132,12 +1132,12 @@
       "permanent": true
     },
     {
-      "source": "/en/arkivet",
+      "source": "/en/arkivet/",
       "destination": "/arbeid/",
       "permanent": true
     },
     {
-      "source": "/en/arkivet/",
+      "source": "/en/arkivet",
       "destination": "/arbeid/",
       "permanent": true
     },
@@ -1202,12 +1202,12 @@
       "permanent": true
     },
     {
-      "source": "/en/kopi-av-tjenester/",
+      "source": "/en/kopi-av-tjenester",
       "destination": "/tjenester/design-og-visuell-kommunikasjon/",
       "permanent": true
     },
     {
-      "source": "/en/kopi-av-tjenester",
+      "source": "/en/kopi-av-tjenester/",
       "destination": "/tjenester/design-og-visuell-kommunikasjon/",
       "permanent": true
     },
@@ -1222,12 +1222,12 @@
       "permanent": true
     },
     {
-      "source": "/en/kopi-av-designtjenester/",
+      "source": "/en/kopi-av-designtjenester",
       "destination": "/tjenester/pr-og-mediearbeid/",
       "permanent": true
     },
     {
-      "source": "/en/kopi-av-designtjenester",
+      "source": "/en/kopi-av-designtjenester/",
       "destination": "/tjenester/pr-og-mediearbeid/",
       "permanent": true
     },
@@ -1272,12 +1272,12 @@
       "permanent": true
     },
     {
-      "source": "/en/designavannonse/",
+      "source": "/en/designavannonse",
       "destination": "/tjenester/design-og-visuell-kommunikasjon/",
       "permanent": true
     },
     {
-      "source": "/en/designavannonse",
+      "source": "/en/designavannonse/",
       "destination": "/tjenester/design-og-visuell-kommunikasjon/",
       "permanent": true
     },
@@ -1312,12 +1312,12 @@
       "permanent": true
     },
     {
-      "source": "/en/merkevarelansering",
+      "source": "/en/merkevarelansering/",
       "destination": "/arbeid/hvrmnnsn-merkevareutvikling/",
       "permanent": true
     },
     {
-      "source": "/en/merkevarelansering/",
+      "source": "/en/merkevarelansering",
       "destination": "/arbeid/hvrmnnsn-merkevareutvikling/",
       "permanent": true
     },
@@ -1332,22 +1332,22 @@
       "permanent": true
     },
     {
-      "source": "/en/merkevareprkarllagerfeld/",
-      "destination": "/arbeid/coca-cola-norsk-relevans/",
-      "permanent": true
-    },
-    {
       "source": "/en/merkevareprkarllagerfeld",
       "destination": "/arbeid/coca-cola-norsk-relevans/",
       "permanent": true
     },
     {
-      "source": "/en/gorkene/",
+      "source": "/en/merkevareprkarllagerfeld/",
       "destination": "/arbeid/coca-cola-norsk-relevans/",
       "permanent": true
     },
     {
       "source": "/en/gorkene",
+      "destination": "/arbeid/coca-cola-norsk-relevans/",
+      "permanent": true
+    },
+    {
+      "source": "/en/gorkene/",
       "destination": "/arbeid/coca-cola-norsk-relevans/",
       "permanent": true
     },
@@ -1382,22 +1382,22 @@
       "permanent": true
     },
     {
-      "source": "/en/%C3%A5retssportsbar2024",
-      "destination": "/arbeid/allente-lokal-pr-ressurs/",
-      "permanent": true
-    },
-    {
       "source": "/en/%C3%A5retssportsbar2024/",
       "destination": "/arbeid/allente-lokal-pr-ressurs/",
       "permanent": true
     },
     {
-      "source": "/en/handle",
-      "destination": "/arbeid/norgesgruppen-handle/",
+      "source": "/en/%C3%A5retssportsbar2024",
+      "destination": "/arbeid/allente-lokal-pr-ressurs/",
       "permanent": true
     },
     {
       "source": "/en/handle/",
+      "destination": "/arbeid/norgesgruppen-handle/",
+      "permanent": true
+    },
+    {
+      "source": "/en/handle",
       "destination": "/arbeid/norgesgruppen-handle/",
       "permanent": true
     },
@@ -1422,12 +1422,12 @@
       "permanent": true
     },
     {
-      "source": "/en/bærekraftrapportmcd",
+      "source": "/en/bærekraftrapportmcd/",
       "destination": "/arbeid/mcdonalds-redaksjonell-totalproduksjon/",
       "permanent": true
     },
     {
-      "source": "/en/bærekraftrapportmcd/",
+      "source": "/en/bærekraftrapportmcd",
       "destination": "/arbeid/mcdonalds-redaksjonell-totalproduksjon/",
       "permanent": true
     },
@@ -1472,12 +1472,12 @@
       "permanent": true
     },
     {
-      "source": "/en/jobs/",
+      "source": "/en/jobs",
       "destination": "/kontakt/",
       "permanent": true
     },
     {
-      "source": "/en/jobs",
+      "source": "/en/jobs/",
       "destination": "/kontakt/",
       "permanent": true
     },
@@ -1492,12 +1492,12 @@
       "permanent": true
     },
     {
-      "source": "/en/merkevarer",
+      "source": "/en/merkevarer/",
       "destination": "/tjenester/",
       "permanent": true
     },
     {
-      "source": "/en/merkevarer/",
+      "source": "/en/merkevarer",
       "destination": "/tjenester/",
       "permanent": true
     },
@@ -1542,17 +1542,32 @@
       "permanent": true
     },
     {
+      "source": "/post/:slug*",
+      "destination": "/perspektiver/",
+      "permanent": true
+    },
+    {
+      "source": "/post/",
+      "destination": "/perspektiver/",
+      "permanent": true
+    },
+    {
+      "source": "/post",
+      "destination": "/perspektiver/",
+      "permanent": true
+    },
+    {
       "source": "/en/:slug*",
       "destination": "/pr-agency-norway/",
       "permanent": true
     },
     {
-      "source": "/en/",
+      "source": "/en",
       "destination": "/pr-agency-norway/",
       "permanent": true
     },
     {
-      "source": "/en",
+      "source": "/en/",
       "destination": "/pr-agency-norway/",
       "permanent": true
     }
